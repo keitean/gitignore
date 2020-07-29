@@ -1,8 +1,14 @@
 # gitignore
 
-```
+.DS_Storeとか、環境依存の不要なファイルをgitに混入させない設定
+
+## ディレクトリとファイル作って、vimで編集
+
+```terminal
 mkdir -p ~/.config/git && vim $_/ignore
 ```
+
+## ignoreの中身
 
 ```~/.config/git/ignore
 # General
