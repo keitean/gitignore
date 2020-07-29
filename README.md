@@ -8,7 +8,7 @@
 mkdir -p ~/.config/git && vim $_/ignore
 ```
 
-## ignoreの中身
+## ignoreの中身 （コピペでOK）
 
 ```~/.config/git/ignore
 # General
